@@ -1,0 +1,27 @@
+# Prompt Example – Lyra Botanical Protocol (for LLM use)
+
+This prompt is based on a real ecological context and should be used in conjunction with clear photos:
+- 1 overview photo showing both plants in their environment
+- 1 macro of each flower
+- 1 photo with size reference (e.g., ruler or familiar object)
+
+---
+
+Two flowering plants were observed on April 8th in a low-altitude Mediterranean calcareous prairie (~200 m elevation), on dry soil, in an open environment.
+
+Plant 1:
+- Height: ~20 cm
+- Flowers: yellow, solitary
+- Foliage: narrow, elongated
+- Habit: erect
+
+Plant 2:
+- Height: ~20 cm
+- Flowers: purple, monocotyledon
+- Foliage: sword-like (gladiolate)
+- Habit: erect
+
+Please provide a list of the most likely species for each plant, in decreasing order of probability, up to a cumulative 95% likelihood.
+
+Then, assuming these two species are *Narcissus assoanus* and *Iris lutescens*, list the most probable third co-occurring flowering species in the same biotope, between early April and mid-May, also up to a cumulative 95% total probability.
+
